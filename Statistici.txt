@@ -1,0 +1,40 @@
+Statistici
+Inregistrari:835
+Baieti:412
+Fete:399
+Fete -> fete:15
+Baieti -> baieti:9
+
+14 ani:120
+15 ani:217
+16 ani:201
+17 ani:175
+18 ani:68
+19 ani:32
+20 ani:22
+
+Baieti 14 ani:35
+Baieti 15 ani:86
+Baieti 16 ani:111
+Baieti 17 ani:103
+Baieti 18 ani:46
+Baieti 19 ani:21
+Baieti 20 ani:19
+
+Fete 14 ani:85
+Fete 15 ani:131
+Fete 16 ani:90
+Fete 17 ani:72
+Fete 18 ani:22
+Fete 19 ani:11
+Fete 20 ani:3
+
+Clasa 7:50
+Clasa 8:93
+Clasa 9:253
+Clasa 10:182
+Clasa 11:162
+Clasa 12:95
+
+Formular completat:782
+Formular necompletat:53
